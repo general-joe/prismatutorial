@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.10.2",
+    "express": "^4.18.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.0",
+    "prisma": "^5.10.2",
+    "yarn": "^1.22.21"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "prismatutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/general-joe/prismatutorial.git",
+  "author": "D-General <kwabijoe274@gmail.com>",
+  "license": "MIT"
+}
